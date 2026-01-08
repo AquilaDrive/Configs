@@ -1,0 +1,292 @@
+C:\Windows\System32>powercfg /q
+Power Scheme GUID: d5e3e643-3a28-416a-937f-84d3d7abc4db  (High performance)
+  Subgroup GUID: 0012ee47-9041-4b5d-9b77-535fba8b1442  (Hard disk)
+    GUID Alias: SUB_DISK
+    Power Setting GUID: 6738e2c4-e8a5-4a42-b16a-e040e769756e  (Turn off hard disk after)
+      GUID Alias: DISKIDLE
+      Minimum Possible Setting: 0x00000000
+      Maximum Possible Setting: 0xffffffff
+      Possible Settings increment: 0x00000001
+      Possible Settings units: Seconds
+    Current AC Power Setting Index: 0x00000000
+    Current DC Power Setting Index: 0x00000000
+
+  Subgroup GUID: 02f815b5-a5cf-4c84-bf20-649d1f75d3d8  (Internet Explorer)
+    Power Setting GUID: 4c793e7d-a264-42e1-87d3-7a0d2f523ccd  (JavaScript Timer Frequency)
+      Possible Setting Index: 000
+      Possible Setting Friendly Name: Maximum Power Savings
+      Possible Setting Index: 001
+      Possible Setting Friendly Name: Maximum Performance
+    Current AC Power Setting Index: 0x00000001
+    Current DC Power Setting Index: 0x00000001
+
+  Subgroup GUID: 0d7dbae2-4294-402a-ba8e-26777e8488cd  (Desktop background settings)
+    Power Setting GUID: 309dce9b-bef4-4119-9921-a851fb12f0f4  (Slide show)
+      Possible Setting Index: 000
+      Possible Setting Friendly Name: Available
+      Possible Setting Index: 001
+      Possible Setting Friendly Name: Paused
+    Current AC Power Setting Index: 0x00000000
+    Current DC Power Setting Index: 0x00000000
+
+  Subgroup GUID: 19cbb8fa-5279-450e-9fac-8a3d5fedd0c1  (Wireless Adapter Settings)
+    Power Setting GUID: 12bbebe6-58d6-4636-95bb-3217ef867c1a  (Power Saving Mode)
+      Possible Setting Index: 000
+      Possible Setting Friendly Name: Maximum Performance
+      Possible Setting Index: 001
+      Possible Setting Friendly Name: Low Power Saving
+      Possible Setting Index: 002
+      Possible Setting Friendly Name: Medium Power Saving
+      Possible Setting Index: 003
+      Possible Setting Friendly Name: Maximum Power Saving
+    Current AC Power Setting Index: 0x00000000
+    Current DC Power Setting Index: 0x00000000
+
+  Subgroup GUID: 238c9fa8-0aad-41ed-83f4-97be242c8f20  (Sleep)
+    GUID Alias: SUB_SLEEP
+    Power Setting GUID: 29f6c1db-86da-48c5-9fdb-f2b67b1f44da  (Sleep after)
+      GUID Alias: STANDBYIDLE
+      Minimum Possible Setting: 0x00000000
+      Maximum Possible Setting: 0xffffffff
+      Possible Settings increment: 0x00000001
+      Possible Settings units: Seconds
+    Current AC Power Setting Index: 0x00000000
+    Current DC Power Setting Index: 0x00000000
+
+    Power Setting GUID: 94ac6d29-73ce-41a6-809f-6363ba21b47e  (Allow hybrid sleep)
+      GUID Alias: HYBRIDSLEEP
+      Possible Setting Index: 000
+      Possible Setting Friendly Name: Off
+      Possible Setting Index: 001
+      Possible Setting Friendly Name: On
+    Current AC Power Setting Index: 0x00000000
+    Current DC Power Setting Index: 0x00000000
+
+    Power Setting GUID: 9d7815a6-7ee4-497e-8888-515a05f02364  (Hibernate after)
+      GUID Alias: HIBERNATEIDLE
+      Minimum Possible Setting: 0x00000000
+      Maximum Possible Setting: 0xffffffff
+      Possible Settings increment: 0x00000001
+      Possible Settings units: Seconds
+    Current AC Power Setting Index: 0x00000000
+    Current DC Power Setting Index: 0x00000000
+
+    Power Setting GUID: bd3b718a-0680-4d9d-8ab2-e1d2b4ac806d  (Allow wake timers)
+      GUID Alias: RTCWAKE
+      Possible Setting Index: 000
+      Possible Setting Friendly Name: Disable
+      Possible Setting Index: 001
+      Possible Setting Friendly Name: Enable
+      Possible Setting Index: 002
+      Possible Setting Friendly Name: Important Wake Timers Only
+    Current AC Power Setting Index: 0x00000000
+    Current DC Power Setting Index: 0x00000000
+
+  Subgroup GUID: 2a737441-1930-4402-8d77-b2bebba308a3  (USB settings)
+    Power Setting GUID: 48e6b7a6-50f5-4782-a5d4-53bb8f07e226  (USB selective suspend setting)
+      Possible Setting Index: 000
+      Possible Setting Friendly Name: Disabled
+      Possible Setting Index: 001
+      Possible Setting Friendly Name: Enabled
+    Current AC Power Setting Index: 0x00000000
+    Current DC Power Setting Index: 0x00000000
+
+  Subgroup GUID: 4f971e89-eebd-4455-a8de-9e59040e7347  (Power buttons and lid)
+    GUID Alias: SUB_BUTTONS
+    Power Setting GUID: a7066653-8d6c-40a8-910e-a1f54b84c7e5  (Start menu power button)
+      GUID Alias: UIBUTTON_ACTION
+      Possible Setting Index: 000
+      Possible Setting Friendly Name: Sleep
+      Possible Setting Index: 001
+      Possible Setting Friendly Name: Hibernate
+      Possible Setting Index: 002
+      Possible Setting Friendly Name: Shut down
+    Current AC Power Setting Index: 0x00000000
+    Current DC Power Setting Index: 0x00000000
+
+  Subgroup GUID: 501a4d13-42af-4429-9fd1-a8218c268e20  (PCI Express)
+    GUID Alias: SUB_PCIEXPRESS
+    Power Setting GUID: ee12f906-d277-404b-b6da-e5fa1a576df5  (Link State Power Management)
+      GUID Alias: ASPM
+      Possible Setting Index: 000
+      Possible Setting Friendly Name: Off
+      Possible Setting Index: 001
+      Possible Setting Friendly Name: Moderate power savings
+      Possible Setting Index: 002
+      Possible Setting Friendly Name: Maximum power savings
+    Current AC Power Setting Index: 0x00000000
+    Current DC Power Setting Index: 0x00000000
+
+  Subgroup GUID: 54533251-82be-4824-96c1-47b60b740d00  (Processor power management)
+    GUID Alias: SUB_PROCESSOR
+    Power Setting GUID: 06cadf0e-64ed-448a-8927-ce7bf90eb35d  (Processor performance increase threshold)
+      GUID Alias: PERFINCTHRESHOLD
+      Minimum Possible Setting: 0x00000000
+      Maximum Possible Setting: 0x00000064
+      Possible Settings increment: 0x00000001
+      Possible Settings units: %
+    Current AC Power Setting Index: 0x0000005a
+    Current DC Power Setting Index: 0x0000005a
+
+    Power Setting GUID: 0cc5b647-c1df-4637-891a-dec35c318583  (Processor performance core parking min cores)
+      GUID Alias: CPMINCORES
+      Minimum Possible Setting: 0x00000000
+      Maximum Possible Setting: 0x00000064
+      Possible Settings increment: 0x00000001
+      Possible Settings units: %
+    Current AC Power Setting Index: 0x00000032
+    Current DC Power Setting Index: 0x00000032
+
+    Power Setting GUID: 12a0ab44-fe28-4fa9-b3bd-4b64f44960a6  (Processor performance decrease threshold)
+      GUID Alias: PERFDECTHRESHOLD
+      Minimum Possible Setting: 0x00000000
+      Maximum Possible Setting: 0x00000064
+      Possible Settings increment: 0x00000001
+      Possible Settings units: %
+    Current AC Power Setting Index: 0x0000000a
+    Current DC Power Setting Index: 0x0000000a
+
+    Power Setting GUID: 36687f9e-e3a5-4dbf-b1dc-15eb381c6863  (Processor energy performance preference policy)
+      GUID Alias: PERFEPP
+      Minimum Possible Setting: 0x00000000
+      Maximum Possible Setting: 0x00000064
+      Possible Settings increment: 0x00000001
+      Possible Settings units: %
+    Current AC Power Setting Index: 0x0000005a
+    Current DC Power Setting Index: 0x0000005a
+
+    Power Setting GUID: 36687f9e-e3a5-4dbf-b1dc-15eb381c6864  (Processor energy performance preference policy for Processor Power Efficiency Class 1)
+      GUID Alias: PERFEPP1
+      Minimum Possible Setting: 0x00000000
+      Maximum Possible Setting: 0x00000064
+      Possible Settings increment: 0x00000001
+      Possible Settings units: %
+    Current AC Power Setting Index: 0x00000064
+    Current DC Power Setting Index: 0x00000064
+
+    Power Setting GUID: 36687f9e-e3a5-4dbf-b1dc-15eb381c6865  (Processor energy performance preference policy for Processor Power Efficiency Class 2)
+      GUID Alias: PERFEPP2
+      Minimum Possible Setting: 0x00000000
+      Maximum Possible Setting: 0x00000064
+      Possible Settings increment: 0x00000001
+      Possible Settings units: %
+    Current AC Power Setting Index: 0x00000064
+    Current DC Power Setting Index: 0x00000064
+
+    Power Setting GUID: 4b92d758-5a24-4851-a470-815d78aee119  (Processor idle demote threshold)
+      GUID Alias: IDLEDEMOTE
+      Minimum Possible Setting: 0x00000000
+      Maximum Possible Setting: 0x00000064
+      Possible Settings increment: 0x00000001
+      Possible Settings units: %
+    Current AC Power Setting Index: 0x0000000a
+    Current DC Power Setting Index: 0x0000000a
+
+    Power Setting GUID: 75b0ae3f-bce0-45a7-8c89-c9611c25e100  (Maximum processor frequency)
+      GUID Alias: PROCFREQMAX
+      Minimum Possible Setting: 0x00000000
+      Maximum Possible Setting: 0xffffffff
+      Possible Settings increment: 0x00000001
+      Possible Settings units: MHz
+    Current AC Power Setting Index: 0x00000f87
+    Current DC Power Setting Index: 0x00000f87
+
+    Power Setting GUID: 7b224883-b3cc-4d79-819f-8374152cbe7c  (Processor idle promote threshold)
+      GUID Alias: IDLEPROMOTE
+      Minimum Possible Setting: 0x00000000
+      Maximum Possible Setting: 0x00000064
+      Possible Settings increment: 0x00000001
+      Possible Settings units: %
+    Current AC Power Setting Index: 0x0000005a
+    Current DC Power Setting Index: 0x0000005a
+
+    Power Setting GUID: 893dee8e-2bef-41e0-89c6-b55d0929964c  (Minimum processor state)
+      GUID Alias: PROCTHROTTLEMIN
+      Minimum Possible Setting: 0x00000000
+      Maximum Possible Setting: 0x00000064
+      Possible Settings increment: 0x00000001
+      Possible Settings units: %
+    Current AC Power Setting Index: 0x00000064
+    Current DC Power Setting Index: 0x00000064
+
+    Power Setting GUID: 893dee8e-2bef-41e0-89c6-b55d0929964d  (Minimum processor state for Processor Power Efficiency Class 1)
+      GUID Alias: PROCTHROTTLEMIN1
+      Minimum Possible Setting: 0x00000000
+      Maximum Possible Setting: 0x00000064
+      Possible Settings increment: 0x00000001
+      Possible Settings units: %
+    Current AC Power Setting Index: 0x00000019
+    Current DC Power Setting Index: 0x00000019
+
+    Power Setting GUID: 984cf492-3bed-4488-a8f9-4286c97bf5aa  (Processor performance increase time)
+      GUID Alias: PERFINCTIME
+      Minimum Possible Setting: 0x00000001
+      Maximum Possible Setting: 0x00000064
+      Possible Settings increment: 0x00000001
+      Possible Settings units: Time check intervals
+    Current AC Power Setting Index: 0x00000002
+    Current DC Power Setting Index: 0x00000002
+
+    Power Setting GUID: 984cf492-3bed-4488-a8f9-4286c97bf5ab  (Processor performance increase time for Processor Power Efficiency Class 1)
+      GUID Alias: PERFINCTIME1
+      Minimum Possible Setting: 0x00000001
+      Maximum Possible Setting: 0x00000064
+      Possible Settings increment: 0x00000001
+      Possible Settings units: Time check intervals
+    Current AC Power Setting Index: 0x00000002
+    Current DC Power Setting Index: 0x00000002
+
+    Power Setting GUID: bc5038f7-23e0-4960-96da-33abaf5935ec  (Maximum processor state)
+      GUID Alias: PROCTHROTTLEMAX
+      Minimum Possible Setting: 0x00000000
+      Maximum Possible Setting: 0x00000064
+      Possible Settings increment: 0x00000001
+      Possible Settings units: %
+    Current AC Power Setting Index: 0x00000064
+    Current DC Power Setting Index: 0x00000064
+
+    Power Setting GUID: bc5038f7-23e0-4960-96da-33abaf5935ed  (Maximum processor state for Processor Power Efficiency Class 1)
+      GUID Alias: PROCTHROTTLEMAX1
+      Minimum Possible Setting: 0x00000000
+      Maximum Possible Setting: 0x00000064
+      Possible Settings increment: 0x00000001
+      Possible Settings units: %
+    Current AC Power Setting Index: 0x00000014
+    Current DC Power Setting Index: 0x00000014
+
+    Power Setting GUID: be337238-0d82-4146-a960-4f3749d470c7  (Processor performance boost mode)
+      GUID Alias: PERFBOOSTMODE
+      Possible Setting Index: 000
+      Possible Setting Friendly Name: Disabled
+      Possible Setting Index: 001
+      Possible Setting Friendly Name: Enabled
+      Possible Setting Index: 002
+      Possible Setting Friendly Name: Aggressive
+      Possible Setting Index: 003
+      Possible Setting Friendly Name: Efficient Enabled
+      Possible Setting Index: 004
+      Possible Setting Friendly Name: Efficient Aggressive
+      Possible Setting Index: 005
+      Possible Setting Friendly Name: Aggressive At Guaranteed
+      Possible Setting Index: 006
+      Possible Setting Friendly Name: Efficient Aggressive At Guaranteed
+    Current AC Power Setting Index: 0x00000002
+    Current DC Power Setting Index: 0x00000002
+
+    Power Setting GUID: d8edeb9b-95cf-4f95-a73c-b061973693c8  (Processor performance decrease time)
+      GUID Alias: PERFDECTIME
+      Minimum Possible Setting: 0x00000001
+      Maximum Possible Setting: 0x00000064
+      Possible Settings increment: 0x00000001
+      Possible Settings units: Time check intervals
+    Current AC Power Setting Index: 0x00000004
+    Current DC Power Setting Index: 0x00000004
+
+    Power Setting GUID: d8edeb9b-95cf-4f95-a73c-b061973693c9  (Processor performance decrease time for Processor Power Efficiency Class 1)
+      GUID Alias: PERFDECTIME1
+      Minimum Possible Setting: 0x00000001
+      Maximum Possible Setting: 0x00000064
+      Possible Settings increment: 0x00000001
+      Possible Settings units: Time check intervals
+    Current AC Power Setting Index: 0x00000004
+    Current DC Power Setting Index: 0x00000004
