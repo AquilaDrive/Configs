@@ -1,0 +1,60 @@
+Performance Mode (Lenovo)
+
+Fast Startup Disabled (Windows)
+Performance Power Plan
+EPP 90-100-100
+ProcessorPerformanceBoostMode - Aggressive
+
+
+CPU
+
+CPPC - disabled
+
+Universal x86 Tuning Utility
+35w-35w-35w
+Slow Boost & Fast Boost 1024s-1024s
+AMD Curve Optimizer +2 
+AMD Boost Profile Performance 
+RyzenAdj - UXTU verification
+
+
+GPU
+
+dGPU only
+DDU for drivers
+528.49 GOAT
+537.34 or 556.12 work too
+No GeForce Experience
+
+MSI Afterburner (from Guru3D)
+Undervolt
+831mV 1785Mhz (+120) with VRAM +0
+or aggressive:
+825mV 1785Mhz (+150) with VRAM +600
+
+Nvidia Control Panel
+G-sync Fullscreen and Windowed
+ShaderCacheSize Unlimited
+LowLatency OFF
+VSync ON (forced)
+
+MPV
+mpv.conf
+ytdl-format=ytdl
+cache=yes
+cache-secs=120
+demuxer-max-bytes=2048MiB 
+demuxer-max-back-bytes=128MiB
+demuxer-max-packets=50000
+demuxer-readahead-secs=120
+cache-pause=no
+hr-seek-framedrop=yes
+vd-lavc-threads=4
+
+yt-dlp.conf
+--sleep-requests 1
+--http-chunk-size 4M
+--buffer-size 128M
+--fragment-retries 8
+--hls-prefer-native
+--hls-use-mpegts
