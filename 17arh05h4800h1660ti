@@ -1,6 +1,9 @@
 Performance Mode (Lenovo)
 
 Fast Startup Disabled (Windows)
+Hardware-Accelerated GPU Scheduling - OFF (works meh with the Pascal GPUs)
+MPO - disabled
+
 Performance Power Plan
 EPP 90-100-100
 ProcessorPerformanceBoostMode - Aggressive
@@ -38,6 +41,11 @@ G-sync Fullscreen and Windowed
 ShaderCacheSize Unlimited
 LowLatency OFF
 VSync ON (forced)
+
+
+Individual Game .exe setings in compatibility
+Disable Fullscreen Optimizations - Yes, disable
+Run as Admin - Yes
 
 MPV
 mpv.conf
