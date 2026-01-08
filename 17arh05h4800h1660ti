@@ -46,7 +46,7 @@ VSync ON (forced)
 
 
 Individual Game .exe setings in compatibility
-Disable Fullscreen Optimizations - Yes, disable
+Disable Fullscreen Optimizations - Yes, disable (Keep enabled for AutoHDR, eg. in Genshin)
 Run as Admin - Yes
 
 MPV
