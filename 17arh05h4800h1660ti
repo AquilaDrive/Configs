@@ -4,6 +4,7 @@ Fast Startup Disabled (Windows)
 Hardware-Accelerated GPU Scheduling - OFF (works meh with the Pascal GPUs)
 MPO - disabled
 
+powercfg /qh
 Performance Power Plan
 EPP 90-100-100
 ProcessorPerformanceBoostMode - Aggressive
