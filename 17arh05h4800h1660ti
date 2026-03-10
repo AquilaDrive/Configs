@@ -32,12 +32,6 @@ DDU for drivers
 528.49 OG GOAT
 537.34 or 556.12 work too
 No GeForce Experience
-nvidiaProfileInspector
-  reBar system-wide
-  prefer stable performance
-  prefer maximum performance (all games)
-  CUDA - Force P2 State: Set to Off (all games)
-  72 fps cap PS_CONST_FOLDING_GPU to 0xA2B53761 (FH5)
 
 MSI Afterburner (from Guru3D)
 Undervolt
@@ -45,13 +39,11 @@ Undervolt
 or aggressive:
 825mV 1785Mhz (+150) with VRAM +600
 
-Nvidia Control Panel
+nvidiaProfileInspector
   G-sync Fullscreen and Windowed
   ShaderCacheSize Unlimited
   LowLatency OFF
   VSync ON (forced)
-
-nvidiaProfileInspector
   reBar (system-wide)
   prefer stable performance (system-wide)
   prefer maximum performance (all games)
