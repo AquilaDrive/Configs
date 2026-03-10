@@ -45,9 +45,9 @@ nvidiaProfileInspector
   LowLatency OFF
   VSync ON (forced)
   reBar (system-wide)
+  CUDA - Force P2 State: Set to Off (system-wide)
   prefer stable performance (system-wide)
   prefer maximum performance (all games)
-  CUDA - Force P2 State: Set to Off (all games)
   72 fps cap PS_CONST_FOLDING_GPU to 0xA2B53761 (FH5)
 
 Individual Game .exe setings in compatibility menu of .exe 
