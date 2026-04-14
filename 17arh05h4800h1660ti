@@ -38,7 +38,7 @@ A clean undervolt
 831mV 1785Mhz (+120) with VRAM +0
 or an aggressive undervolt:
 825mV 1785Mhz (+150) with VRAM +600
-or balanced (clocks change more, but the powerdraw is more consistent) 
+or balanced (the clocks change more, but the powerdraw is more consistent):
 850mV 1815Mhz (+120) with VRAM +600
 
 nvidiaProfileInspector
