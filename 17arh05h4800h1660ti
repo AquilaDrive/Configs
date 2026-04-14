@@ -6,7 +6,7 @@ MPO - disabled
 
 powercfg /qh
 Performance Power Plan
-EPP 90-100-100
+EPP 80-100-100
 ProcessorPerformanceBoostMode - Aggressive
 
 
