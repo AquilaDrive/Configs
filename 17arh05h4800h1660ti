@@ -57,6 +57,8 @@ Individual Game .exe setings in compatibility menu of .exe
 Disable Fullscreen Optimizations - Yes, disable (Keep enabled for AutoHDR, eg. in Genshin)
 Run as Admin - Yes
 
+Basic.bat wrapped in .vbs to set process priority to high for games upon launch. 
+
 MPV
 mpv.conf
 ytdl-format=ytdl
