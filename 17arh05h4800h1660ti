@@ -15,12 +15,12 @@ CPU
 CPPC - disabled
 
 Universal x86 Tuning Utility
-95C
+100C - 100C
 54w-54w-54w
 Slow Boost 1024s
 Fast Boost 1024s
-AMD Curve Optimizer -2 
-Cores 7&8 +8
+AMD Curve Optimizer -6 
+Core 8 +24
 AMD Boost Profile Performance 
 RyzenAdj - UXTU verification
 
