@@ -2,7 +2,7 @@ Performance Mode (Lenovo)
 
 Fast Startup Disabled (Windows)
 Hardware-Accelerated GPU Scheduling - OFF (works meh with the Pascal GPUs)
-MPO - disabled
+MPO - disabled (can be done during NVcleanstall driver install) 
 
 powercfg /qh
 Performance Power Plan
