@@ -20,7 +20,10 @@ or
 900mV 1890Mhz (+186) (stock power limit) (aggressive undervolt) 
 
 nvidiaProfileInspector
+  Limiter 117fps
   G-sync Fullscreen and Windowed
+  V-sync Force ON
+  rBar Enabled 
   ShaderCacheSize Unlimited
   LowLatency OFF
   VSync ON (forced)
