@@ -39,13 +39,7 @@ Preset Letter - K (Transformer Gen1)
 Quality Level - Quality 
 Or (very situational)
 Preset Letter - M (Transformer Gen2)
-Quality Level - Balanced   DLL Override - DLSSoverwritten by latest inastalled (4.5)
-ForcedModelPresetProfile - Recommended
-Preset Letter - K (Transformer Gen1)
-Quality Level - Quality 
-Or (very situational)
-Preset Letter - M (Transformer Gen2)
-Quality Level - Balanced
+Quality Level - Balanced   
 
 
 Individual Game .exe setings in compatibility menu of .exe 
