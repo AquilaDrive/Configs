@@ -17,11 +17,34 @@ or
 or
 900mV 1890Mhz (+186) (stock power limit) (aggressive undervolt) 
 
-610.74
+nvidiaProfileInspector
+  G-sync Fullscreen and Windowed
+  ShaderCacheSize Unlimited
+  LowLatency OFF
+  VSync ON (forced)
+  reBar (system-wide)
+  CUDA - Force P2 State: Set to Off (system-wide)
+  prefer stable performance (system-wide)
+  prefer maximum performance (all games)
+  PS_CONST_FOLDING_GPU to OFF(0xA2B53761) (FH5 & FH6)
+
 DLL Override - DLSSoverwritten by latest inastalled (4.5)
 ForcedModelPresetProfile - Recommended
 Preset Letter - K (Transformer Gen1)
 Quality Level - Quality 
 Or (very situational)
 Preset Letter - M (Transformer Gen2)
+Quality Level - Balanced   DLL Override - DLSSoverwritten by latest inastalled (4.5)
+ForcedModelPresetProfile - Recommended
+Preset Letter - K (Transformer Gen1)
+Quality Level - Quality 
+Or (very situational)
+Preset Letter - M (Transformer Gen2)
 Quality Level - Balanced
+
+
+Individual Game .exe setings in compatibility menu of .exe 
+Disable Fullscreen Optimizations - Yes, disable (Keep enabled for AutoHDR, eg. in Genshin)
+Run as Admin - Yes
+Basic.bat wrapped in .vbs to set process priority to high for games upon launch.  
+
