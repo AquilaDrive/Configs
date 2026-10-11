@@ -26,7 +26,6 @@ nvidiaProfileInspector
   rBar Enabled 
   ShaderCacheSize Unlimited
   LowLatency OFF
-  VSync ON (forced)
   reBar (system-wide)
   CUDA - Force P2 State: Set to Off (system-wide)
   prefer maximum performance 
