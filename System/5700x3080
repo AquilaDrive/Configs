@@ -29,9 +29,8 @@ nvidiaProfileInspector
   VSync ON (forced)
   reBar (system-wide)
   CUDA - Force P2 State: Set to Off (system-wide)
-  prefer stable performance (system-wide)
-  prefer maximum performance (all games)
-  PS_CONST_FOLDING_GPU to OFF(0xA2B53761) (FH5 & FH6)
+  prefer maximum performance 
+  PS_CONST_FOLDING_GPU to OFF(0xA2B53761) (primarily for stability in Forza) 
 
 DLL Override - DLSSoverwritten by latest inastalled (4.5)
 ForcedModelPresetProfile - Recommended
