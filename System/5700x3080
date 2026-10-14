@@ -23,12 +23,11 @@ nvidiaProfileInspector
   Limiter 117fps
   G-sync Fullscreen and Windowed
   V-sync Force ON
-  rBar Enabled 
-  ShaderCacheSize Unlimited
   LowLatency OFF
-  reBar (system-wide)
   CUDA - Force P2 State: Set to Off (system-wide)
   Power Management prefer maximum performance 
+  rBar Enabled 
+  ShaderCacheSize Unlimited
   PS_CONST_FOLDING_GPU to OFF(0xA2B53761) (primarily for stability in Forza) 
 
 DLL Override - DLSSoverwritten by latest inastalled (4.5)
